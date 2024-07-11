@@ -13,4 +13,8 @@
       <PackageReference Include="Microsoft.Orleans.Client" Version="8.2.0-preview1" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\GameServerr\GameServerr.csproj" />
+    </ItemGroup>
+
 </Project>
